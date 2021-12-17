@@ -34,7 +34,6 @@ To get a local copy up and running follow these simple example steps.
 `$ rails db:migrate` \.
 
  To open the server in the required port run `$ rails server -p 3001` 
- The link to the endpoint
  
 ## Run tests
 
@@ -60,7 +59,7 @@ You can fetch the greetings \
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SunnySparks/acnh-metrics.git/issues).
+Feel free to check the [issues page](https://github.com/SunnySparks/hello-rails-back-end/issues).
 
 ## Show your support
 
