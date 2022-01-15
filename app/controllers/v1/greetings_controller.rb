@@ -2,19 +2,19 @@ class V1::GreetingsController < ApplicationController
   def index
     render json: { greetings: [
       {
-        greeting: 'Aló'
+        greeting: 'Cheers, mate'
       },
       {
-        greeting: 'Salut'
+        greeting: 'Hi, friend'
       },
       {
-        greeting: 'Buenos días'
+        greeting: 'G\'day'
       },
       {
         greeting: 'Hello, Peter'
       },
       {
-        greeting: 'Ahoy'
+        greeting: 'Buenas, buenaaaaaaaaaaaaaaaaaas'
       }
     ] }.to_json
   end
