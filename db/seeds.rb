@@ -7,17 +7,17 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Message.create(      {
-  greeting: 'Cheers, mate'
+  message: 'Cheers, mate'
 },
 {
-  greeting: 'Hi, friend'
+  message: 'Hi, friend'
 },
 {
-  greeting: 'G\'day'
+  message: 'G\'day'
 },
 {
-  greeting: 'Hello, Peter'
+  message: 'Hello, Peter'
 },
 {
-  greeting: 'Buenas, buenaaaaaaaaaaaaaaaaaas'
+  message: 'Buenas, buenaaaaaaaaaaaaaaaaaas'
 })
